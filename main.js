@@ -67,4 +67,4 @@ player.on('queueEnd', (queue) => {
 
 
 
-client.login("OTQwMjE0MTkwOTUyNTU0NTA3.YgEIsw.EDyPPyFgimMJNM9NCLOJ_KhdGwQ")
+client.login(process.env.TOKEN)
